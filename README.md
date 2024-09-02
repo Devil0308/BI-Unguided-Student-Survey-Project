@@ -1,8 +1,11 @@
 # Student Survey Sales Analysis and Visualization
+
 ## Overview
 
 This project involves analyzing and visualizing a dataset derived from a retail company's student survey using Power BI. The dataset includes detailed records of purchases across 45 stores, capturing student preferences for various product categories, store locations, and total purchase amounts.
+
 ---
+
 ## Dataset
 
 - Total Entries: 754 records
