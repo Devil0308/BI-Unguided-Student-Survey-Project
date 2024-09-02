@@ -40,9 +40,10 @@ This project involves analyzing and visualizing a dataset derived from a retail 
 - Compare sales performance across different store settings.
 - Drill down into specific product categories to see detailed purchase trends.
 
-How to Use
-Clone the Repository: git clone https://github.com/yourusername/student-survey-sales-analysis.git
-Dataset: The dataset is provided as a CSV file within the repository.
-Dashboard File: The Power BI dashboard file (.pbix) is included for further exploration and customization.
-Conclusion
+---
+
+## Conclusion
+
 This project provides valuable insights into student purchasing behavior and store performance, offering data-driven recommendations for improving sales strategies in retail outlets. The Power BI dashboard serves as an interactive tool for visualizing these insights.
+
+---
